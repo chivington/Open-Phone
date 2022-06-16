@@ -1,0 +1,2 @@
+# Open-Phone
+The Open Phone is an open source, modular phone that gives users their choice of full PC operating system, and hardware components like screen, camera, battery, usb ports, etc. It is designed with security and privacy in mind and features a hardware power switch for the LTE radio. The Open Phone is also the perfect device for electronics engineers and hobbyists, as it features a full 40-pin GPIO header.
